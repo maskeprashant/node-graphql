@@ -1,0 +1,18 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Suresh",
+    "lastName": "Kumar",
+    "email": "suresh.kumar@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "firstName": "ramesh",
+    "lastName": "kolu",
+    "email": "suresh.kumar@gmail.com",
+    "password": "pass123",
+    "collegeId": "col-101"
+  }
+]
